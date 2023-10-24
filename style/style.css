@@ -4,3 +4,10 @@ header {
 p2 {
     color: skyblue;
   }
+footer {
+    background-color: rgb(2, 2, 127);
+  }
+footer{
+    color:white;
+    text-align: center;
+}
